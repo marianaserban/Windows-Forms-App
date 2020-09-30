@@ -1,0 +1,48 @@
+C:\Users\Mariana\Desktop\florarie\Florarie\Florarie\bin\Debug\Florarie.exe.config
+C:\Users\Mariana\Desktop\florarie\Florarie\Florarie\bin\Debug\Florarie.exe
+C:\Users\Mariana\Desktop\florarie\Florarie\Florarie\bin\Debug\Florarie.pdb
+C:\Users\Mariana\Desktop\florarie\Florarie\Florarie\obj\Debug\Florarie.csprojAssemblyReference.cache
+C:\Users\Mariana\Desktop\florarie\Florarie\Florarie\obj\Debug\Florarie.Properties.Resources.resources
+C:\Users\Mariana\Desktop\florarie\Florarie\Florarie\obj\Debug\Florarie.csproj.GenerateResource.cache
+C:\Users\Mariana\Desktop\florarie\Florarie\Florarie\obj\Debug\Florarie.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Desktop\florarie\Florarie\Florarie\obj\Debug\Florarie.exe
+C:\Users\Mariana\Desktop\florarie\Florarie\Florarie\obj\Debug\Florarie.pdb
+C:\Users\Mariana\Desktop\florarie\Florarie\Florarie\obj\Debug\Florarie.EditareComanda.resources
+C:\Users\Mariana\Desktop\florarie\Florarie\Florarie\obj\Debug\Florarie.FormComanda.resources
+C:\Users\Mariana\Desktop\florarie - Copie\Florarie\Florarie\bin\Debug\Florarie.exe.config
+C:\Users\Mariana\Desktop\florarie - Copie\Florarie\Florarie\bin\Debug\Florarie.exe
+C:\Users\Mariana\Desktop\florarie - Copie\Florarie\Florarie\bin\Debug\Florarie.pdb
+C:\Users\Mariana\Desktop\florarie - Copie\Florarie\Florarie\obj\Debug\Florarie.csprojAssemblyReference.cache
+C:\Users\Mariana\Desktop\florarie - Copie\Florarie\Florarie\obj\Debug\Florarie.EditareComanda.resources
+C:\Users\Mariana\Desktop\florarie - Copie\Florarie\Florarie\obj\Debug\Florarie.FormComanda.resources
+C:\Users\Mariana\Desktop\florarie - Copie\Florarie\Florarie\obj\Debug\Florarie.Properties.Resources.resources
+C:\Users\Mariana\Desktop\florarie - Copie\Florarie\Florarie\obj\Debug\Florarie.csproj.GenerateResource.cache
+C:\Users\Mariana\Desktop\florarie - Copie\Florarie\Florarie\obj\Debug\Florarie.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Desktop\florarie - Copie\Florarie\Florarie\obj\Debug\Florarie.exe
+C:\Users\Mariana\Desktop\florarie - Copie\Florarie\Florarie\obj\Debug\Florarie.pdb
+C:\Users\Mariana\Desktop\tema paw\Florarie\Florarie\bin\Debug\Florarie.exe.config
+C:\Users\Mariana\Desktop\tema paw\Florarie\Florarie\bin\Debug\Florarie.exe
+C:\Users\Mariana\Desktop\tema paw\Florarie\Florarie\bin\Debug\Florarie.pdb
+C:\Users\Mariana\Desktop\tema paw\Florarie\Florarie\obj\Debug\Florarie.csprojAssemblyReference.cache
+C:\Users\Mariana\Desktop\tema paw\Florarie\Florarie\obj\Debug\Florarie.AdaugaClient.resources
+C:\Users\Mariana\Desktop\tema paw\Florarie\Florarie\obj\Debug\Florarie.EditareComanda.resources
+C:\Users\Mariana\Desktop\tema paw\Florarie\Florarie\obj\Debug\Florarie.FormComanda.resources
+C:\Users\Mariana\Desktop\tema paw\Florarie\Florarie\obj\Debug\Florarie.Properties.Resources.resources
+C:\Users\Mariana\Desktop\tema paw\Florarie\Florarie\obj\Debug\Florarie.csproj.GenerateResource.cache
+C:\Users\Mariana\Desktop\tema paw\Florarie\Florarie\obj\Debug\Florarie.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Desktop\tema paw\Florarie\Florarie\obj\Debug\Florarie.exe
+C:\Users\Mariana\Desktop\tema paw\Florarie\Florarie\obj\Debug\Florarie.pdb
+C:\Users\Mariana\Desktop\tema paw\Florarie\Florarie\obj\Debug\Florarie.EditeazaClient.resources
+C:\Users\Mariana\Desktop\Florarie\Florarie\bin\Debug\Florarie.exe.config
+C:\Users\Mariana\Desktop\Florarie\Florarie\bin\Debug\Florarie.exe
+C:\Users\Mariana\Desktop\Florarie\Florarie\bin\Debug\Florarie.pdb
+C:\Users\Mariana\Desktop\Florarie\Florarie\obj\Debug\Florarie.csprojAssemblyReference.cache
+C:\Users\Mariana\Desktop\Florarie\Florarie\obj\Debug\Florarie.AdaugaClient.resources
+C:\Users\Mariana\Desktop\Florarie\Florarie\obj\Debug\Florarie.EditareComanda.resources
+C:\Users\Mariana\Desktop\Florarie\Florarie\obj\Debug\Florarie.EditeazaClient.resources
+C:\Users\Mariana\Desktop\Florarie\Florarie\obj\Debug\Florarie.FormComanda.resources
+C:\Users\Mariana\Desktop\Florarie\Florarie\obj\Debug\Florarie.Properties.Resources.resources
+C:\Users\Mariana\Desktop\Florarie\Florarie\obj\Debug\Florarie.csproj.GenerateResource.cache
+C:\Users\Mariana\Desktop\Florarie\Florarie\obj\Debug\Florarie.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Desktop\Florarie\Florarie\obj\Debug\Florarie.exe
+C:\Users\Mariana\Desktop\Florarie\Florarie\obj\Debug\Florarie.pdb
