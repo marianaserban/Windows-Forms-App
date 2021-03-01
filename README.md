@@ -1,2 +1,2 @@
 # Windows-Forms-App
-C#
+Windows Forms application for the management of a flower shop and its orders
